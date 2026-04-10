@@ -1,5 +1,5 @@
 # panchakarma-management-software
-Designed and developed a website for Panchakarma management with online appointment  booking and a chatbot to assist users in scheduling therapy sessions.
+Designed and developed a website by using React for Panchakarma management with online appointment  booking and a chatbot to assist users in scheduling therapy sessions.
 🌿 Panchakarma Management System
 
 A web-based Panchakarma Management Platform designed and developed to streamline therapy scheduling and improve user interaction through online appointment booking and chatbot assistance.
